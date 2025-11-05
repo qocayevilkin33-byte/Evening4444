@@ -1,0 +1,15 @@
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.AssemblyInfoInputs.cache
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.AssemblyInfo.cs
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.csproj.CoreCompileInputs.cache
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.sourcelink.json
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\bin\Debug\net8.0\5 noyabr qrup isi.exe
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\bin\Debug\net8.0\5 noyabr qrup isi.deps.json
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\bin\Debug\net8.0\5 noyabr qrup isi.runtimeconfig.json
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\bin\Debug\net8.0\5 noyabr qrup isi.dll
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\bin\Debug\net8.0\5 noyabr qrup isi.pdb
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.dll
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\refint\5 noyabr qrup isi.dll
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.pdb
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\5 noyabr qrup isi.genruntimeconfig.cache
+C:\Users\Evening\source\repos\5 noyabr qrup isi\5 noyabr qrup isi\obj\Debug\net8.0\ref\5 noyabr qrup isi.dll
